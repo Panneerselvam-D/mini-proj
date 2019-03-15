@@ -1,1 +1,1 @@
-# mini-proj/index.php
+index.php
